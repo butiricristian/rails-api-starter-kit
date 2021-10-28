@@ -1,24 +1,17 @@
-# README
+# Rails API Starter Kit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API Starter Kit using latest technolgies including:
 
-Things you may want to cover:
+* Ruby 3
 
-* Ruby version
+* Devise JWT authentication
 
-* System dependencies
+* Sidekiq
 
-* Configuration
+* Shrine
 
-* Database creation
+* Mongoid adapter for MongoDB
 
-* Database initialization
+* Rspec
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Graphql
